@@ -3,7 +3,5 @@
   "short_name":"Resume",
   "short_url":"/",
   "scope":".",
-  "display":"standalone",
-  
-  
+  "display":"standalone"
 }
