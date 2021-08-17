@@ -1,1 +1,9 @@
-
+{
+ "name":"alireza sadeghi",
+  "short_name":"Resume",
+  "short_url":"/",
+  "scope":".",
+  "display":"standalone",
+  
+  
+}
